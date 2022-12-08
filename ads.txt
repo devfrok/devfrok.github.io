@@ -1,2 +1,1 @@
-# ads.txt file for devfrok.github.io:
 google.com, pub-9372551067994918, DIRECT, f08c47fec0942fa0
